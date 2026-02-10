@@ -9,3 +9,4 @@ Topics include
 - Basic Loops
 
 This repo shows my learning progress.
+Learning python through consistent daily practice.
