@@ -1,0 +1,10 @@
+inventory = ['wooden sword', 'healing potion', 'leather armor']
+
+inventory.append('gold coin')
+inventory.insert(1, 'magic scroll')
+inventory.extend(['ruby', 'emerald', 'diamond'])
+inventory.pop()
+inventory.remove('wooden sword')
+inventory.clear()
+
+print(inventory)
