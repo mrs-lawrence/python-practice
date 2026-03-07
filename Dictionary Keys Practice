@@ -1,0 +1,6 @@
+dictionary = {
+    123: [1,2,3],
+    True: 'hello'
+}
+
+print(dictionary[True])
